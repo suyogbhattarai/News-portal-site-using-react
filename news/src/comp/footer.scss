@@ -1,0 +1,22 @@
+$brand:#2260bfff;
+$red:#ed1b24ff;
+$navhover:#70c9ffff;
+
+footer{
+    background-color:$brand ;
+    p{
+        color: white;
+    }
+    h5{
+        color: white;
+    }
+    ul{
+        padding: 0;
+
+        li{
+            list-style: none;
+            color: white;
+
+        }
+    }
+}

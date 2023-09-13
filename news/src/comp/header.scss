@@ -1,0 +1,22 @@
+$brand:#2260bfff;
+$red:#ed1b24ff;
+$navhover:#70c9ffff;
+
+
+.top{
+    padding: 15px 0px;
+    
+    background-color:$brand ;
+    ul{
+        li{
+            :link{
+                color: white;
+                
+
+            }
+        }
+    }
+}
+
+
+
